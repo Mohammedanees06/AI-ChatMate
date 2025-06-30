@@ -32,6 +32,8 @@ AI ChatMate is a real-time conversational AI assistant powered by Google Gemini 
    ```bash
    # Backend
    cd backend
+   npm init -y
+   npm i cors
    npm install
    
    # Frontend
