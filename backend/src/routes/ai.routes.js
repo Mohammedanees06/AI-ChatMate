@@ -2,6 +2,6 @@ const express = require('express');
 const router = express.Router();
 const aiController = require('../controllers/ai.controller');
 
-router.post('/get-ai-review', aiController.getAiReview);
+router.post('/getAiChatResponse', aiController.getAiChatResponse);
 
 module.exports = router;
