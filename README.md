@@ -85,6 +85,7 @@ AI-ChatMate/
 
 ## Author
 
-**Mohammed Anees**  
-📧 mohammedaneesdev@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/mohammedaneesdev)
+ Made with 💻 by Mohammed Anees  
+
+🔗 [LinkedIn](https://linkedin.com/in/mohammedaneesdev)  
+💻 [GitHub](https://github.com/Mohammedanees06)
